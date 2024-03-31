@@ -6,3 +6,5 @@
 - git pull - fetches changes from the remote repo and merge them into current branch of local repo
 - git push - pushes commits from local repo to remote one
 - git revert - revert the changes that the related patches introduce
+
+Some useless information added here **blah-blah-blah**
