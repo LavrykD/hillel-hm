@@ -7,4 +7,4 @@
 - git push - pushes commits from local repo to remote one
 - git revert - revert the changes that the related patches introduce
 
-Some useless information added here **blah-blah-blah**
+Create some useless text in **main branch**
