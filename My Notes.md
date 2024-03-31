@@ -7,7 +7,7 @@
     - Address any pending HR issues.
 2. To-Do List:
     
-    - Submit project proposal by Friday.
+    - Submit project proposal by Sunday.
     - Schedule dentist appointment.
     - Follow up with client regarding contract revisions.
 3. Reminders:
